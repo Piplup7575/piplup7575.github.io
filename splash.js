@@ -19,7 +19,14 @@ say[11] = "a- amogu- *gets shot with laser*";
 say[12] = "null";
 say[13] = "We didn't start the fire! It was always burning, since the world's been turning";
 say[14] = "We started the fire! It was always burning, since the world's been turning";
-
+say[15] = "This code has definitely not been stolen in any way!";
+say[16] = "Check out my github!";
+say[17] = "Check out my projects!";
+say[18] = "Check out my about me!";
+say[19] = "imagine school";
+say[20] = "(╯°□°)╯︵ ┻━┻";
+say[21] = "pain.";
+say[22] = "Check out my Music!";
 
 var howmany = say.length;
 var bRand = 0;
