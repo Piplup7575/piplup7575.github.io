@@ -29,16 +29,6 @@ a {
   color: #0084ff;
 }
 
-.zoom {
-  -webkit-animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
-  animation: scale-down-center 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
-}
-.zoom:hover {
-  text-decoration: none;
-  -webkit-animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
-  animation: scale-up-center 0.3s cubic-bezier(0.39, 0.575, 0.565, 1) both;
-}
- 
 #buttons {
   cursor: pointer;
   border: none;
