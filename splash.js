@@ -27,6 +27,7 @@ say[19] = "imagine school";
 say[20] = "(╯°□°)╯︵ ┻━┻";
 say[21] = "pain.";
 say[22] = "Check out my Music!";
+say[23] = "piplupiscool";
 
 var howmany = say.length;
 var bRand = 0;
