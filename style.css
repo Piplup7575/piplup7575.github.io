@@ -65,7 +65,6 @@ a {
 /* ---- reset ---- */
 canvas {
   display: block;
-  vertical-align: bottom;
 }
 
 /* ---- particles.js container ---- */
