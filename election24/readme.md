@@ -1,0 +1,1 @@
+This is the AP Election Map Timeline starting from Nov 5th at 5:27pm, until Nov 6 at 6:02pm
